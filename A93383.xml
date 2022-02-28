@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An honourable and worthy speech: spoken in the high court of Parliament by Mr. Smith of the Middle-Temple October 28. 1641. Concerning the regulating of the Kings Majesties prerogative and the liberties of the subjects. With a motion for the speedy redresse of all greevances under which the church and state doth lye.</title>
+            <author>Smith, Philip, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93383</idno>
+            <idno type="STC">Wing S4143</idno>
+            <idno type="STC">Thomason E199_8</idno>
+            <idno type="STC">ESTC R17369</idno>
+            <idno type="EEBO-CITATION">99860179</idno>
+            <idno type="PROQUEST">99860179</idno>
+            <idno type="VID">157507</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157507)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An honourable and worthy speech: spoken in the high court of Parliament by Mr. Smith of the Middle-Temple October 28. 1641. Concerning the regulating of the Kings Majesties prerogative and the liberties of the subjects. With a motion for the speedy redresse of all greevances under which the church and state doth lye.</title>
+                  <author>Smith, Philip, d. 1664.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157507:1"/>
+            <pb facs="tcp:157507:1"/>
+            <p>AN HONOURABLE AND WORTHY SPEECH: SPOKEN IN THE HIGH COVRT OF PARLIAMENT.</p>
+            <p>By Mr. <hi>SMITH</hi> of the <hi>Middle-Temple, October</hi> 28. 1641.</p>
+            <p>Concerning the Regulating of the Kings Majeſties Prero<g ref="char:EOLhyphen"/>gative, and the Liberties of the Subjects.</p>
+            <p>With a Motion for the ſpeedy Redreſſe of all Greevances under which the Church and State doth lye.</p>
+            <figure>
+               <figDesc>decorative flourish</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Barnard Al<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>, MDCXLI.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157507:2"/>
+            <pb n="1" facs="tcp:157507:2"/>
+            <head>An Honorable SPEECH Spoken in the High <hi>Court of Parliament, Octo<g ref="char:EOLhyphen"/>ber,</hi> 28. 1641. by <hi>Mr. Smith of the Middle-Temple.</hi>
+            </head>
+            <opener>
+               <salute>Mr. SPEAKER,</salute>
+            </opener>
+            <p>THE laſt time we aſſembled, wee ſate like a Colledge of Phyſitians, upon the life &amp; death of three great Patients; whoſe bleeding hearts lay proſtrate before us, were arrived at that criticall minute, either to receive reliefe, or eternall de<g ref="char:EOLhyphen"/>ſtruction. The 3 fortunate Nations were preſented to us, in all their diſtractions: and growne to ſuch a ſuper<g ref="char:EOLhyphen"/>lative in their miſeries, that like Nurſing Mothers be<g ref="char:EOLhyphen"/>reaved of their tender Infants, they were careleſſe of what might happen to them, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uia perdiderant liberta<g ref="char:EOLhyphen"/>tes.</hi> Theſe 3 Kingdomes whoſe peace and amity filled the remaining world with envy and emulation, &amp; were like that happy Trinity of <hi>Faith, Hope, and Charity,</hi> in a perfect union: had but now their ſwords edg'd to each others confuſion. <hi>O ſcelus hominum!</hi> height of impiety! <hi>KAI SV TEKNON!</hi> Said <hi>Caeſar</hi> in the Senate, t'was not his death that griev'd him, but that his Son ſhould advance his hand to his ſlaughter. How many Sons and <hi>Neroes</hi> had we, whoſe earneſt indeav-ours were to rip up their Mothers wombe, and like <hi>
+                  <g ref="char:V">Ʋ</g>ipers</hi> eate through her bowels, and to lay deſolate their Fathers Houſe! <hi>Quis talia fando,</hi>
+            </p>
+            <pb n="2" facs="tcp:157507:3"/>
+            <p>
+               <hi>Temperets a lachrimis?</hi> And yet all this had bin but a Prologue to our Tragedy; had not God Al<g ref="char:EOLhyphen"/>mighty pleaſed to interpoſe his hand, and to have bin a pillar of fire betwixt us and our Captivity, and to have wrought our Deliverance, by his Great Inſtrument, the <hi>Parliament;</hi> whoſe conſtant Labour it hath bin, for this yeare paſt, to create a true underſtanding, &amp; firme peace between the Nations: which I hope is ſo accompliſh't, that 'tis not in the power of the Divell, or all his works, ever to diſſolve it. This, I ſay, was the worke of our laſt ſitting. Give me leave Sir, I beſeech you, to deliver what I conceive convenient to be of this; <hi>To give God his due, to eſtabliſh Rights betweene King and People, and to compoſe things amongſt our ſelves:</hi> that we may give God his due, we muſt advance his worſhip, and compell Obedience to his Commands, wherein he hath beene ſo much neglected. Honour and Riches have bin ſet up for gods, in competition with him, Idolatry and Super<g ref="char:EOLhyphen"/>ſtition have bin introduced, even into his Houſe, the Church, and He expulſed, his name hath bin blaſphemed, and his day prophaned, by the Authority of that unlaw<g ref="char:EOLhyphen"/>full Booke of Sports; and thoſe who would not trem<g ref="char:EOLhyphen"/>ble thus to diſhonour God, would not ſcruple to doe it to their Parents, or injure their Neighbors, eyther by murther of themſelves, or names; or by Adultery, <hi>Da<g ref="char:EOLhyphen"/>vids great Crimes:</hi> they have not onely rob'd God of his Honour, but men of their Eſtates, and of part of them<g ref="char:EOLhyphen"/>ſelves, Members and Eares have bin ſet to ſale, even to the deforming of that Creature, whom God had honou<g ref="char:EOLhyphen"/>red with his owne Image, that they might colour this their wickedneſſe, Perjury and falſe Teſtimony, have bin more frequent with them then their prayers: and all this proceeded out of an inordinate deſire of that which was their Neighbors. And thus God in all his Commandements hath bin abuſed. Can we then won<g ref="char:EOLhyphen"/>der at his judgments, or think he could do leſſe to right
+<pb n="3" facs="tcp:157507:3"/> himſelfe upon ſuch a Rebellious People then he hath?</p>
+            <p>I beſeech you Sir, let us doe ſomething to ſeale him in his Throne, and worſhip all with one mind, and not that every one ſhould goe to God a way by himſelfe: this uncertainty ſtaggers the unreſolved ſoule, &amp; leades it into ſuch a Labyrinth, that not knowing where to fix, for feare of Erring, ſticks to no way, ſo dyes ere it per<g ref="char:EOLhyphen"/>formes that, for which t'was made to live, uniformity in his Worſhip, is that which pleaſeth him; and if we will thus ſerve him, we may expect protection from him.</p>
+            <p>The next thing that I conceive fit to be conſidered, is, to cauſe the Rights, both of the King and People truely to be underſtood: and in this, to give that Au<g ref="char:EOLhyphen"/>thority to the Prerogative which Legally it hath, and to uphold the Subjects Liberty from being minc't into Servitude.</p>
+            <p>That the King ſhould have a Prerogative, is ne<g ref="char:EOLhyphen"/>ceſſary for his Houour; it differences him from His People: but if it ſwels too high, and makes an Inunda<g ref="char:EOLhyphen"/>tion upon his Subjects Liberty; 'tis no longer then to be ſtiled by that Name: The <hi>Priviledge</hi> of the Subject, is likewiſe for his Majeſties high Honour. <hi>King David gloried in the number of his People, and Queene Elizabeth delivered in a Speech in Parliament, that the greatneſſe of a Prince conſiſted in the Riches of his Subjects, intimating that then they ſtood like lofty Cedars about him, to defend him from the ſtormes of the world, and there were ample Demonſtrations of that in that renowned Queenes Reigne:</hi> but what Incouragement can they have, eyther to in<g ref="char:EOLhyphen"/>creaſe their Numbers; or Eſtates; unleſſe they may have Protection both for themſelves, and Eſtates? Therefore the Priviledge and Greatneſſe of the Subjects are rela<g ref="char:EOLhyphen"/>tively for the Honour of the Prince.</p>
+            <p>Prerogative and Liberty, are both neceſſary to this Kingdome: and like the Sunne and Moone, give a luſtre to this benighted Nation, ſo long as they walke at their
+<pb n="4" facs="tcp:157507:4"/> equall diſtances: but when one of them<g ref="char:punc">▪</g> ſhall venture into the others Orbe, like thoſe Planets in conjunction, they then cauſe a deeper Eclipſe. What ſhall be the com<g ref="char:EOLhyphen"/>paſſe then, by which theſe two muſt ſteere? Why, no<g ref="char:EOLhyphen"/>thing but the ſame by which they are, The Law: which if it might runne in the free current of its purity, with<g ref="char:EOLhyphen"/>out being poyſoned by the venemous ſpirits of ill-affe<g ref="char:EOLhyphen"/>cted Diſpoſitions, would ſo fix the King to his Crown; that it would make him ſtand like a Star in the Firma<g ref="char:EOLhyphen"/>ment, for the Neighbor-world to behold and tremb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at.</p>
+            <p>That they may be the better acted, I ſhall humbly deſire, that after ſo many times, that great <hi>Charter,</hi> the Light of the LAW, may be reviewed, the Liberty of the Subject explained, and be once more confirmed: and pen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lties impoſed on the breakers, and let him dye unto the bargaine, that dares attempt the Act.</p>
+            <p>The laſt thing, that falls into conſideration, is, to ſet things right amongſt our ſelves, the Subjects of <hi>England,</hi> And in this, ſo to provide, that the <hi>Maecenaſſes</hi> of the Times, may not, like great Jacks in a poole, devour their Inferiours, and make Poverty a Pavement for them<g ref="char:EOLhyphen"/>ſelves to trample on. This hath bin a burthen we have long groaned under; for if a great one did but ſay the word, it was ſufficient to evict my right even from my owne inheritance. They had both Law and Juſtice ſo in a ſtring; that they could command them with a nod, And thus People have been diſinherited of their com<g ref="char:EOLhyphen"/>mon right: the Law which is as due to them, as the Ayre they breath in.</p>
+            <p>On the other ſide, we muſt take care, that the Com<g ref="char:EOLhyphen"/>mon-people may not carve themſelves out Juſtice, by their Multitudes. Of this we have too frequent experi<g ref="char:EOLhyphen"/>ence, by their breaking downe Incloſures, and by raiſing other tumults, to as ill purpoſes. Which if they be not ſuddenly ſupp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt, to how deſperate an Iſſue, this may
+<pb n="5" facs="tcp:157507:4"/> grow, I'le leave to your better judgments. My humb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e motion therefore is, that an intimation may goe forth, unto the Countrey, to wiſh thoſe that are injured to re<g ref="char:EOLhyphen"/>ſort to Courts of Law. And if there they faile of Juſtice, in Parliament they may be confident to receive <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
